@@ -3,7 +3,7 @@
 -######  [这是网页集](http://tools.bugscaner.com/google/)
 -
        我想玩
-  [蔡徐坤](https://www.lightcolour.cn/cxk-ball-hitplane/)
+  [蔡徐坤](https://www.lightcolour.cn/cxk-ball-hitplane/)源自https://github.com/Lightcolour-666/cxk-ball-hitplane/blob/master/README.md
 -# cxk-ball-hitplane
 微信蔡徐坤篮球打飞机
 
@@ -23,7 +23,6 @@
 
 
 ## 说明
-<a href="https://lightcolour-666.github.io/cxk-ball-hitplane/">点我游玩</a>
 
 主页
 
