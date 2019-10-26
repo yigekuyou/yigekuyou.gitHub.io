@@ -1,73 +1,39 @@
--## Welcome to GitHub Pages
+-#欢迎观看此页
 
+-######  [这是网页集](http://tools.bugscaner.com/google/)
 -
+       我想玩
+  [蔡徐坤](https://www.lightcolour.cn/cxk-ball-hitplane/)
+-# cxk-ball-hitplane
+微信蔡徐坤篮球打飞机
 
--You can use the [editor on GitHub](https://github.com/yigekuyou/yigekuyou.gitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+电脑打开 响应式设计模式<img src="https://raw.githubusercontent.com/Lightcolour-666/cxk-ball-hitplane/master/md/4.jpg"> 使用
+  
+> ## 更新记录
 
--
+> * 5/4 
+>      >将蔡徐坤贴图方正(以前的设定是胯下出球) 
+>      >将蔡徐坤贴图改为动态  
+> * 5/6 
+>      >增加音效  
+>      >增加PC浏览检测  
+>      >修改开始背景  
+> * 5/7
+>      >修复大屏无法创建敌方飞机
 
--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
--
+## 说明
+<a href="https://lightcolour-666.github.io/cxk-ball-hitplane/">点我游玩</a>
 
--### Markdown
+主页
 
--
+<img src="https://raw.githubusercontent.com/Lightcolour-666/cxk-ball-hitplane/master/md/1.png">
+  
+开始
 
--Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://raw.githubusercontent.com/Lightcolour-666/cxk-ball-hitplane/master/md/2.jpg">
+  
+失败
 
--
+<img src="https://raw.githubusercontent.com/Lightcolour-666/cxk-ball-hitplane/master/md/3.jpg">
 
--```markdown
-
--Syntax highlighted code block
-
--
-
--# Header 1
-
--## Header 2
-
--### Header 3
-
--
-
--- Bulleted
-
--- List
-
--
-
--1. Numbered
-
--2. List
-
--
-
--**Bold** and _Italic_ and `Code` text
-
--
-
--[Link](url) and ![Image](src)
-
--```
-
--
-
--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
--
-
--### Jekyll Themes
-
--
-
--Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yigekuyou/yigekuyou.gitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
--
-
--### Support or Contact
-
--
-
--Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
