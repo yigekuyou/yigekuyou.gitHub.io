@@ -32,11 +32,9 @@ cmake --install build
 
 #### mkdir $PREFIX/lib/python3.11/site-packages/llama_cpp/lib
 
-ln -s $PREFIX/lib/libllama.so
-$PREFIX/lib/python3.11/site-packages/llama_cpp/lib ln -s $PREFIX/lib/libggml.so
-$PREFIX/lib/python3.11/site-packages/llama_cpp/lib ln -s
-$PREFIX/lib/libllavashared.so
-$PREFIX/lib/python3.11/site-packages/llama_cpp/lib/libllava.so
+ln -s $PREFIX/lib/libllama.so $PREFIX/lib/python3.11/site-packages/llama_cpp/lib
+ln -s $PREFIX/lib/libggml.so $PREFIX/lib/python3.11/site-packages/llama_cpp/lib 
+ln -s $PREFIX/lib/libllavashared.so $PREFIX/lib/python3.11/site-packages/llama_cpp/lib/libllava.so
 
 ### so you can update free on llama.cpp and llama.cpp-python ??
 
