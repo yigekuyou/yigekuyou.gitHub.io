@@ -8,7 +8,7 @@ you should install termux
 
 and if use vulkan ,please install vulkan-loader
 
-by apt : cmake libopenblas rust python-numpy vulkan-header shaderc
+by apt : cmake libopenblas rust python-numpy vulkan-headers shaderc
 python-pip binutils-gold binutils llvmgold libcurl clblast openssl
 patchelf
 
