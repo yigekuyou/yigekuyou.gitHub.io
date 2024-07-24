@@ -8,8 +8,8 @@ you should install termux
 
 and if use vulkan ,please install vulkan-loader
 
-by apt : cmake, opeblse, rust, python-numpy, vulkan-header, shaderc,
-python-pip, binutils-gold, binutils, llvmgold, libcurl, clblast, openssl,
+by apt : cmake libopenblas rust python-numpy vulkan-header shaderc
+python-pip binutils-gold binutils llvmgold libcurl clblast openssl
 patchelf
 
 ### so we should install
