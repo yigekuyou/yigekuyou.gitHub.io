@@ -10,7 +10,7 @@ and if use vulkan ,please install vulkan-loader
 
 by apt : cmake libopenblas rust python-numpy vulkan-headers shaderc
 python-pip binutils-gold binutils llvmgold libcurl clblast openssl
-patchelf
+patchelf vulkan-loader-android
 
 ### so we should install
 
