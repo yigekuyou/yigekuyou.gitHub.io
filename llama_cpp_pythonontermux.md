@@ -30,10 +30,12 @@ cmake --build build --target all -- -j $(nproc)
 
 cmake --install build
 
-#### mkdir $PREFIX/lib/python3.13/site-packages/llama_cpp/lib
+#### mkdir $PREFIX/lib/python3.12/site-packages/llama_cpp/lib
 
 ln -s $PREFIX/lib/libllama.so $PREFIX/lib/python3.12/site-packages/llama_cpp/lib
+
 ln -s $PREFIX/lib/libggml.so $PREFIX/lib/python3.12/site-packages/llama_cpp/lib 
+
 ln -s $PREFIX/lib/libllavashared.so $PREFIX/lib/python3.12/site-packages/llama_cpp/lib/libllava.so
 
 ### so you can update free on llama.cpp and llama.cpp-python ??
